@@ -1,0 +1,15 @@
+ls
+pwd
+cd ..
+hop ..
+ls
+reveal
+reveal -l
+reveal -a
+proclore 1429
+neonate -n -1
+proclore 14247
+proclore 14249
+ hop 
+hop
+hi

@@ -1,15 +1,15 @@
-ls
-pwd
-cd ..
-hop ..
-ls
-reveal
-reveal -l
-reveal -a
-proclore 1429
-neonate -n -1
 proclore 14247
 proclore 14249
  hop 
 hop
 hi
+pwd
+proclore
+sleep 5
+sleep 1
+sleep 100 &
+activities
+ping 36926 19
+activities
+	quit
+exit

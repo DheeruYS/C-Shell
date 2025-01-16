@@ -125,13 +125,14 @@ Execute the shell with :
 Some command examples and execution can be find in the screenshots folder.
 
 ## Resources Used : 
-1. https://stackoverflow.com/questions/26616038/how-do-i-print-file-permissions-as-a-string and https://stackoverflow.com/questions/10323060/printing-file-permissions-like-ls-l-using-stat2-in-c
-2. https://pubs.opengroup.org/onlinepubs/007904975/functions/stat.html
-3. https://stackoverflow.com/questions/50620264/from-a-c-program-how-to-know-if-the-process-is-running-in-the-foreground-or-bac
-4. https://stackoverflow.com/questions/656542/trim-a-string-in-c
-5. https://stackoverflow.com/questions/1726302/remove-spaces-from-a-string-in-c
-6. https://stackoverflow.com/questions/8389033/implementation-of-multiple-pipes-in-c
-7. https://viewsourcecode.org/snaptoken/kilo/02.enteringRawMode.html
-8. https://unix.stackexchange.com/questions/437409/problems-caused-by-stdin-set-to-non-blocking-mode
-9. https://stackoverflow.com/questions/11987495/what-do-the-numbers-in-proc-loadavg-mean-on-linux
+1. https://stackoverflow.com/questions/26616038/how-do-i-print-file-permissions-as-a-string
+2. https://stackoverflow.com/questions/10323060/printing-file-permissions-like-ls-l-using-stat2-in-c
+3. https://pubs.opengroup.org/onlinepubs/007904975/functions/stat.html
+4. https://stackoverflow.com/questions/50620264/from-a-c-program-how-to-know-if-the-process-is-running-in-the-foreground-or-bac
+5. https://stackoverflow.com/questions/656542/trim-a-string-in-c
+6. https://stackoverflow.com/questions/1726302/remove-spaces-from-a-string-in-c
+7. https://stackoverflow.com/questions/8389033/implementation-of-multiple-pipes-in-c
+8. https://viewsourcecode.org/snaptoken/kilo/02.enteringRawMode.html
+9. https://unix.stackexchange.com/questions/437409/problems-caused-by-stdin-set-to-non-blocking-mode
+10. https://stackoverflow.com/questions/11987495/what-do-the-numbers-in-proc-loadavg-mean-on-linux
 ## 

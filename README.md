@@ -121,8 +121,6 @@ The shell displays a prompt in the format `<Username@SystemName:~>` where:
 Execute the shell with :
  
     ```./a.out```
-3. **Command Examples** 
-Some command examples and execution can be find in the screenshots folder.
 
 ## Resources Used : 
 1. https://stackoverflow.com/questions/26616038/how-do-i-print-file-permissions-as-a-string
